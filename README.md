@@ -10,3 +10,7 @@ Fitur:
 <br>
 
 ![PASIM Students](student.jpg)
+
+```sql
+select all from nama_tbl
+```
